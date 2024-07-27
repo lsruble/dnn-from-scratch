@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project provides a basic implementation of a neural network without relying on machine learning frameworks. The goal is to understand the fundamental principles behind neural networks.
+This project provides a basic implementation of a neural network without relying on frameworks. The goal is to understand the fundamental principles behind neural networks.
 
 ## Motivation
 
